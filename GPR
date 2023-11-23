@@ -1,0 +1,11 @@
+
+# Substring Search Program
+
+The Python program uses indexing, slicing, and loops to look for a substring (needle) within a main string (haystack).
+
+# How to Use:
+
+1. Execute the program using a Python interpreter.
+2. Input the substring (needle) as prompted.
+3. Provide the main string (haystack) when prompted.
+4. The program will show where the substring first appears in the main string.
